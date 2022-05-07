@@ -1,0 +1,71 @@
+AddSimpleModel(-1,19379, -20001, "metro_hq.dff", "metro_hq.txd");
+AddSimpleModel(-1,19379, -20002, "highrise.dff", "highrise.txd");
+AddSimpleModel(-1,19379, -20003, "mall.dff", "mall.txd");
+AddSimpleModel(-1,19379, -20004, "metro_veg.dff", "metro_veg.txd");
+AddSimpleModel(-1,19379, -20005, "metro_garage.dff", "metro_garage.txd");
+
+AddSimpleModel(-1,19379, -20006, "swatkapi1.dff", "swatkapi1.txd");
+AddSimpleModel(-1,19379, -20007, "swatkapi2.dff", "swatkapi2.txd");
+AddSimpleModel(-1,19379, -20008, "swatkapi3.dff", "swatkapi3.txd");
+AddSimpleModel(-1,19379, -20009, "swatkapi4.dff", "swatkapi4.txd");
+
+AddSimpleModel(-1,19379, -20010, "alhambra_main.dff", "alhambra_main.txd");
+AddSimpleModel(-1,19379, -20011, "alhambra_proj.dff", "alhambra_proj.txd");
+AddSimpleModel(-1,19379, -20012, "alhambra_floor.dff", "alhambra_floor.txd");
+
+AddSimpleModel(-1,19379, -20014, "ship.dff", "ship.txd");
+AddSimpleModel(-1,19379, -20017, "ocean_docks.dff", "ocean_docks.txd");
+AddSimpleModel(-1,19379, -20019, "skatepark.dff", "skatepark.txd");
+
+AddSimpleModel(-1,19379, -20020, "timed_metro.dff", "timed_metro.txd");
+AddSimpleModel(-1,19379, -20021, "timed_highrise.dff", "timed_highrise.txd");
+
+
+AddSimpleModel(-1,19379, -21000, "SheriffHelmet.dff", "SheriffHelmet.txd");
+AddSimpleModel(-1,19379, -21001, "SheriffShield.dff", "SheriffShield.txd");
+AddSimpleModel(-1,19379, -21002, "sebvest.dff", "sebvest.txd");
+AddSimpleModel(-1,19379, -21003, "seb_vest.dff", "seb_vest.txd");
+AddSimpleModel(-1,19379, -21004, "seb_helmet.dff", "seb_helmet.txd");
+AddSimpleModel(-1,19379, -21005, "sdsed.dff", "sdsed.txd");
+
+AddSimpleModel(-1,19379, -21006, "sd_tape.dff", "sd_tape.txd");
+AddSimpleModel(-1,19379, -21007, "sd_placard.dff", "sd_placard.txd");
+AddSimpleModel(-1,19379, -21008, "sd_campaign.dff", "sd_campaign.txd");
+AddSimpleModel(-1,19379, -21009, "PoliceShield.dff", "PoliceShield.txd");
+
+
+AddSimpleModel(-1,19379, -21010, "lssd_sgt_seb.dff", "lssd_sgt_seb.txd");
+AddSimpleModel(-1,19379, -21011, "lssd_sgt.dff", "lssd_sgt.txd");
+
+AddSimpleModel(-1,19379, -21012, "lssd_bonus_2.dff", "lssd_bonus_2.txd");
+AddSimpleModel(-1,19379, -21013, "lssd_bonus_1.dff", "lssd_bonus_1.txd");
+AddSimpleModel(-1,19379, -21014, "lspd_tape.dff", "lspd_tape.txd");
+AddSimpleModel(-1,19379, -21015, "lspd_tactical.dff", "lspd_tactical.txd");
+AddSimpleModel(-1,19379, -21016, "lspd_slo.dff", "lspd_slo.txd");
+AddSimpleModel(-1,19379, -21017, "lspd_sgt_2.dff", "lspd_sgt_2.txd");
+
+AddSimpleModel(-1,19379, -21018, "lspd_sgt_1.dff", "lspd_sgt_1.txd");
+AddSimpleModel(-1,19379, -21019, "lspd_p3.dff", "lspd_p3.txd");
+AddSimpleModel(-1,19379, -21020, "guncase.dff", "guncase.txd");
+AddSimpleModel(-1,19379, -21021, "GasMask.dff", "GasMask.txd");
+
+AddSimpleModel(-1,19379, -21022, "fedbadge.dff", "fedbadge.txd");
+AddSimpleModel(-1,19379, -21023, "fd_cap.dff", "fd_cap.txd");
+AddSimpleModel(-1,19379, -21024, "fbibadge.dff", "fbibadge.txd");
+AddSimpleModel(-1,19379, -21025, "doc_vest.dff", "doc_vest.txd");
+AddSimpleModel(-1,19379, -21026, "GETVest.dff", "GETVest.txd");
+
+
+AddSimpleModel(-1,19379, -21027, "atm.dff", "atm.txd");
+AddSimpleModel(-1,19379, -21028, "billboard_small.dff", "billboard_placeholder_texture.txd");
+AddSimpleModel(-1,19379, -21029, "billboard_medium.dff", "billboard_placeholder_texture.txd");
+
+AddSimpleModel(-1,19379, -21030, "lspd_traffic_insignia.dff", "lspd_traffic_insignia.txd");
+AddSimpleModel(-1,19379, -21031, "lssd_badge.dff", "lssd_badge.txd");
+
+AddSimpleModel(-1, 19379, -2001, "object.dff", "ls-rp.txd");
+AddSimpleModel(-1, 19379, -2002, "object.dff", "mdc_giris.txd");
+AddSimpleModel(-1, 19379, -2003, "object.dff", "mdc_lisanslar.txd");
+AddSimpleModel(-1, 19379, -2004, "object.dff", "mdc_kriminal.txd");
+AddSimpleModel(-1, 19379, -2005, "object.dff", "mdc_kontrol.txd");
+AddSimpleModel(-1, 19379, -2006, "object.dff", "mdc_ihbarlar.txd");
